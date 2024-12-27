@@ -39,7 +39,6 @@ function loadDataTable(status) {
             {
                 data: 'orderDate',
                 "render": function (data) {
-                    // Format ngày (ví dụ: YYYY-MM-DD) nếu cần
                     const date = new Date(data);
                     const formattedDate = date.toLocaleDateString('en-US');
                     return formattedDate;

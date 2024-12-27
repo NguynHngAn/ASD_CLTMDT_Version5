@@ -24,7 +24,7 @@ namespace BulkyBook.Models {
 
         [Required(ErrorMessage = "Phone Number is required.")]
         [RegularExpression(@"^\d{10}$", ErrorMessage = "Invalid Phone Number format. It should be a 10-digit number.")]
-        public string? PhoneNumber { get; set; }
+        public string PhoneNumber { get; set; }
 
         public int? CompanyId { get; set; }
         [ForeignKey("CompanyId")]

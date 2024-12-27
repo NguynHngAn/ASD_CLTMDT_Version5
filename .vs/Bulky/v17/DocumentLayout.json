@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E25D8-385A-4A02-91A1-3E7386101291}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulkyweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\BulkyBookWeb.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_cltmdt\\asd_cltmdt_version3\\bulkyweb\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,32 +74,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:11:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\OrderHeader.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\OrderHeader.cs",
+              "RelativeToolTip": "Bulky.Models\\OrderHeader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:11:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:11:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T17:11:05.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T17:03:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAkwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:00:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "order.js",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\order.js",
               "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\order.js",
               "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\order.js",
               "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\order.js",
-              "ViewState": "AQIAABsAAAAAAAAAAAAqwCkAAAA+AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-27T16:49:18.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\appsettings.json",
               "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
               "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\appsettings.json",
               "RelativeToolTip": "BulkyWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T16:38:11.333Z"
+              "WhenOpened": "2024-12-27T16:38:11.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
@@ -87,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
@@ -99,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "VnPayService.cs",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Services\\VnPayService.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Services\\VnPayService.cs",
@@ -111,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
