@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vVOMzLXKNABSx06yXX5zWVWBqciL9NXqQMajWVfVyKg=",
+  "Hash": "eqLbutUBxJ92D1nlLqflueLZA27HP1VpjXR6lkcErPQ=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1421,6 +1421,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg"
+    },
+    {
+      "Identity": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\11e132e8-df98-457b-9242-249d90bc7c97.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/product-1/11e132e8-df98-457b-9242-249d90bc7c97.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\11e132e8-df98-457b-9242-249d90bc7c97.jpg"
     },
     {
       "Identity": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\ASD_CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
